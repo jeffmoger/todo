@@ -16,6 +16,7 @@ npm start
 ## Instructions
 
 
+
 ### Add a Counter to the Header component
 
 This counter should show the total number of *incomplete* events, and be located in the Header component.
@@ -40,9 +41,9 @@ Add a sticky footer (pinned to bottom of browser) and center your name within th
 
 ## Extra Credit
 
-### Add feature to let user create/delete lists
+- Add feature to let user create/delete lists
 
-### Persist lists after refresh
+- Persist lists after refresh
 
 
 
